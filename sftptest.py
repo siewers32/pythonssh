@@ -9,6 +9,7 @@ localdir = "/Users/janjaap/PycharmProjects/test/"
 remotedir = "/home/deb7255/test/"
 
 #Even wat commentaar....
+# En nog wat...
 def get_files():
     files = []
     for r, d, f in os.walk(localdir):
